@@ -81,7 +81,7 @@ body{
     color:var(--light);
 }
 
-/* hero section */
+
 
 .hero{
     min-height:90vh;
@@ -475,7 +475,6 @@ section{
     }
 }
 
-/* RESPONSIVE  */
 
 @media(max-width:900px){
 
