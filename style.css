@@ -26,7 +26,6 @@ body{
     line-height:1.7;
 }
 
-/* ================= NAVBAR ================= */
 
 .navbar{
     display:flex;
@@ -82,7 +81,7 @@ body{
     color:var(--light);
 }
 
-/* ================= HERO ================= */
+
 
 .hero{
     min-height:90vh;
