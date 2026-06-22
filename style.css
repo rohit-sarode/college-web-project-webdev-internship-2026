@@ -81,7 +81,7 @@ body{
     color:var(--light);
 }
 
-
+/* hero section */
 
 .hero{
     min-height:90vh;
@@ -118,7 +118,7 @@ body{
     font-size:20px;
 }
 
-/* ================= BUTTONS ================= */
+
 
 .btn{
     display:inline-block;
@@ -148,7 +148,7 @@ body{
     color:var(--primary);
 }
 
-/* ================= SECTIONS ================= */
+
 
 section{
     padding:80px 10%;
@@ -177,7 +177,7 @@ section h2::after{
     margin:auto;
 }
 
-/* ================= WELCOME ================= */
+
 
 .welcome{
     background:var(--white);
@@ -189,7 +189,7 @@ section h2::after{
     margin-bottom:15px;
 }
 
-/* ================= STATS ================= */
+
 
 .stats{
     display:grid;
@@ -218,7 +218,7 @@ section h2::after{
     color:var(--secondary);
 }
 
-/* ================= COURSE CARDS ================= */
+
 
 .course-container{
     display:grid;
@@ -251,7 +251,7 @@ section h2::after{
     color:var(--primary);
     margin-bottom:10px;
 }
-/* ================= FACILITIES ================= */
+
 
 .facilities{
     background:var(--accent);
@@ -289,7 +289,7 @@ section h2::after{
     margin-bottom:10px;
 }
 
-/* ================= PRINCIPAL ================= */
+
 
 .principal{
     background:var(--white);
@@ -310,7 +310,6 @@ section h2::after{
     margin-bottom:15px;
 }
 
-/* ================= GALLERY ================= */
 
 .gallery-preview{
     background:var(--light);
@@ -336,7 +335,6 @@ section h2::after{
     box-shadow:0 12px 25px rgba(0,0,0,0.2);
 }
 
-/* ================= FORMS ================= */
 
 .admission-form,
 .contact-form{
@@ -370,8 +368,6 @@ section h2::after{
     box-shadow:0 0 8px rgba(86,84,73,0.25);
 }
 
-/* ================= TABLE ================= */
-
 table{
     width:100%;
     border-collapse:collapse;
@@ -400,7 +396,6 @@ table tr:hover{
     background:var(--accent);
 }
 
-/* ================= CONTACT ================= */
 
 .contact-preview{
     background:var(--primary);
@@ -434,7 +429,6 @@ table tr:hover{
     box-shadow:0 6px 15px rgba(0,0,0,0.08);
 }
 
-/* ================= MAP ================= */
 
 .map-section{
     background:var(--white);
@@ -448,7 +442,6 @@ table tr:hover{
     border-radius:12px;
 }
 
-/* ================= FOOTER ================= */
 
 footer{
     background:var(--primary);
@@ -466,7 +459,6 @@ footer p{
     margin:6px 0;
 }
 
-/* ================= ANIMATIONS ================= */
 
 section{
     animation:fadeIn .8s ease-in-out;
@@ -483,7 +475,7 @@ section{
     }
 }
 
-/* ================= RESPONSIVE ================= */
+/* RESPONSIVE  */
 
 @media(max-width:900px){
 
