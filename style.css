@@ -88,7 +88,7 @@ body{
     background:
     linear-gradient(rgba(17,18,13,.75),
     rgba(86,84,73,.75)),
-    url("images/college-building.jpg");
+    url("college-building.jpg");
     background-size:cover;
     background-position:center;
     display:flex;
